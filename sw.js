@@ -1,4 +1,4 @@
-var GHPATH = "/ICS20-Unit-6-01-JS"
+var GHPATH = "/ICS20-Unit-6-01-extra-"
 var APP_PREFIX = "gppwa_"
 var VERSION = "version_001"
 var URLS = [
